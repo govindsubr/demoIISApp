@@ -1,10 +1,10 @@
 ---
 services: app-service\web,app-service
 platforms: dotnet
-author: cephalin
+author: Govind
 ---
 
-# ASP.NET and SQL Database sample for Azure App Service
+# ASP.NET and SQL Database sample for Web Application
 
 This is a sample application that you can use to follow along with the tutorial at 
 [Create an ASP.NET app in Azure with SQL Database](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-dotnet-sqldatabase/). 
